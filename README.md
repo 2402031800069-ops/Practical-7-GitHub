@@ -9,3 +9,8 @@ The practical includes:
 - Making changes
 - Pull requests
 - Merging changes
+
+## Version 2
+
+This section was added using a separate branch to demonstrate
+collaborative development and version control.
